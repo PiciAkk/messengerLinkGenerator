@@ -1,6 +1,6 @@
 
 # ﻿Messenger Link Generator
-command-line API for generating messenger links
+command-line app for generating messenger links
 
 ## Usage:
 
